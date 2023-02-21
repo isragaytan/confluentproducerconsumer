@@ -5,13 +5,16 @@ props["group.id"] = "python-group-1"
 props["auto.offset.reset"] = "earliest"
 
 consumer = Consumer(props)
+print('Kafka Consumer has been initiated...')
 consumer.subscribe(["dlq"])
 
 try:
     while True:
         msg = consumer.poll(1.0)
         if msg is not None and msg.error() is None:
-         print("key = {key:12} value = {value:12}".format(key=msg.key().decode('utf-8'), value=msg.value().decode('utf-8')))
+            data=msg.value().decode('utf-8')
+            print(data)   
+            #print("key = {key:12} value = {value:12}".format(key=msg.key().decode('utf-8'), value=msg.value().decode('utf-8')))
 except KeyboardInterrupt:
          pass
 finally:

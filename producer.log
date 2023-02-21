@@ -1,20 +1,20 @@
-2023-02-21 12:01:53 Produced message on topic dlq with value of {"user_id": 32413, "user_name": "Christopher Newman", "user_address": "683 Morrow Stravenue Suite 962 | Port John | TV", "platform": "Tablet", "signup_at": "2023-02-10 12:30:47"}
+2023-02-21 12:08:06 Produced message on topic dlq with value of {"user_id": 65187, "user_name": "Peter Smith", "user_address": "844 Brandon Fords Apt. 955 | Theresamouth | GA", "platform": "Laptop", "signup_at": "2023-02-21 01:51:57"}
 
-2023-02-21 12:01:58 Produced message on topic dlq with value of {"user_id": 45311, "user_name": "Brandi Collier", "user_address": "545 Jamie Port | Port Arthur | ZM", "platform": "Tablet", "signup_at": "2023-02-16 20:55:37"}
+2023-02-21 12:08:10 Produced message on topic dlq with value of {"user_id": 61288, "user_name": "Zachary Sanchez", "user_address": "458 Webb Viaduct | Jonesside | VE", "platform": "Mobile", "signup_at": "2023-02-09 07:43:04"}
 
-2023-02-21 12:02:03 Produced message on topic dlq with value of {"user_id": 75786, "user_name": "Shannon Walton", "user_address": "472 Krystal Branch | Kellybury | US", "platform": "Tablet", "signup_at": "2023-02-06 19:28:17"}
+2023-02-21 12:08:14 Produced message on topic dlq with value of {"user_id": 87508, "user_name": "David Hernandez", "user_address": "36157 Bryan Stream | Sabrinachester | MG", "platform": "Tablet", "signup_at": "2023-02-04 02:03:12"}
 
-2023-02-21 12:02:07 Produced message on topic dlq with value of {"user_id": 33256, "user_name": "Jennifer Cobb", "user_address": "951 Wade Mission | Whiteberg | LY", "platform": "Tablet", "signup_at": "2023-02-15 21:56:27"}
+2023-02-21 12:08:19 Produced message on topic dlq with value of {"user_id": 70042, "user_name": "Bruce Green", "user_address": "1416 Rachel Ways Suite 770 | Anthonyhaven | GQ", "platform": "Mobile", "signup_at": "2023-02-20 13:37:36"}
 
-2023-02-21 12:02:11 Produced message on topic dlq with value of {"user_id": 32607, "user_name": "Jose Sutton", "user_address": "355 Marsh Parks Apt. 499 | Michaelhaven | LU", "platform": "Mobile", "signup_at": "2023-02-05 11:54:33"}
+2023-02-21 12:08:23 Produced message on topic dlq with value of {"user_id": 34031, "user_name": "Pamela Clark", "user_address": "10025 Tammy Harbors | Lake Diana | LA", "platform": "Mobile", "signup_at": "2023-02-08 02:11:33"}
 
-2023-02-21 12:02:15 Produced message on topic dlq with value of {"user_id": 79299, "user_name": "Nicole Jones PhD", "user_address": "5530 John Springs | New Jasonberg | DO", "platform": "Mobile", "signup_at": "2023-02-17 00:20:05"}
+2023-02-21 12:08:27 Produced message on topic dlq with value of {"user_id": 79815, "user_name": "Michael Reese", "user_address": "6288 Hunt Pike Apt. 047 | West Tiffany | IN", "platform": "Mobile", "signup_at": "2023-02-09 23:07:41"}
 
-2023-02-21 12:02:19 Produced message on topic dlq with value of {"user_id": 51235, "user_name": "Mrs. Teresa Bowman PhD", "user_address": "69293 Christopher Falls Apt. 967 | Alecberg | SA", "platform": "Mobile", "signup_at": "2023-02-16 14:36:46"}
+2023-02-21 12:08:31 Produced message on topic dlq with value of {"user_id": 84814, "user_name": "Randy Lewis", "user_address": "508 Scott Trafficway Suite 838 | Mooreport | KP", "platform": "Mobile", "signup_at": "2023-02-03 17:06:04"}
 
-2023-02-21 12:02:23 Produced message on topic dlq with value of {"user_id": 35183, "user_name": "Tiffany Garza", "user_address": "21125 Ashley Estates | Paulberg | BE", "platform": "Mobile", "signup_at": "2023-02-12 20:01:33"}
+2023-02-21 12:08:35 Produced message on topic dlq with value of {"user_id": 76431, "user_name": "Kathleen Buck", "user_address": "512 Colon Mills Suite 946 | North Cynthia | EC", "platform": "Mobile", "signup_at": "2023-02-16 00:19:11"}
 
-2023-02-21 12:02:28 Produced message on topic dlq with value of {"user_id": 49360, "user_name": "Brandon Flores", "user_address": "5216 Brenda Islands Apt. 687 | Port Charles | BB", "platform": "Tablet", "signup_at": "2023-02-20 11:55:32"}
+2023-02-21 12:08:39 Produced message on topic dlq with value of {"user_id": 79548, "user_name": "Samantha Long", "user_address": "04037 John Lodge | Gomezfurt | SR", "platform": "Laptop", "signup_at": "2023-02-09 15:47:21"}
 
-2023-02-21 12:02:32 Produced message on topic dlq with value of {"user_id": 44576, "user_name": "Tiffany Bolton", "user_address": "491 Johnson Freeway | New Jeffreyfort | KZ", "platform": "Mobile", "signup_at": "2023-02-13 04:19:48"}
+2023-02-21 12:08:43 Produced message on topic dlq with value of {"user_id": 75806, "user_name": "Robert Holmes", "user_address": "612 Miller Expressway | North Cindyview | WS", "platform": "Mobile", "signup_at": "2023-02-01 02:14:03"}
 
