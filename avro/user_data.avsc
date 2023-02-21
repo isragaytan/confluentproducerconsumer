@@ -1,0 +1,33 @@
+{
+  "doc": "Sample schema for test dlq",
+  "fields": [
+    {
+      "doc": "The int type is a 32-bit signed integer.",
+      "name": "user_id",
+      "type": "int"
+    },
+    {
+      "doc": "The double type is a double precision (64-bit) IEEE 754 floating-point number.",
+      "name": "user_name",
+      "type": "string"
+    },
+    {
+      "doc": "User Address",
+      "name": "user_address",
+      "type": "string"
+    },
+    {
+      "doc": "Platform can be mobile or desktop",
+      "name": "platform",
+      "type": "string"
+    },
+    {
+      "doc": "Date on signup",
+      "name": "signup_at",
+      "type": "string"
+    }
+  ],
+  "name": "user_data",
+  "namespace": "com.accoustic.dlq",
+  "type": "record"
+}

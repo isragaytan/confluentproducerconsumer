@@ -12,4 +12,26 @@ main.py is the main file for produce messages. Utilizes the fake library for pro
 
 consumer.py is the consumer file for consume this messages.
 
+Adapted from ANtonello Benedetto Code
+https://towardsdatascience.com/how-to-build-a-simple-kafka-producer-and-consumer-with-python-a967769c4742
 
+{
+      "name": "user_name",
+      "type": "string",
+      "doc": "User name on string"
+    },
+    {
+      "name": "user_address",
+      "type": "string",
+      "doc": "Address of user"
+    },
+    {
+      "name": "platform",
+      "type": "string",
+      "doc": "Plaform that uses this"
+    },
+    {
+      "name": "signup_at",
+      "type": "string",
+      "doc": "Date format"
+    }
