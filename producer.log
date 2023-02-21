@@ -1,0 +1,20 @@
+2023-02-21 12:01:53 Produced message on topic dlq with value of {"user_id": 32413, "user_name": "Christopher Newman", "user_address": "683 Morrow Stravenue Suite 962 | Port John | TV", "platform": "Tablet", "signup_at": "2023-02-10 12:30:47"}
+
+2023-02-21 12:01:58 Produced message on topic dlq with value of {"user_id": 45311, "user_name": "Brandi Collier", "user_address": "545 Jamie Port | Port Arthur | ZM", "platform": "Tablet", "signup_at": "2023-02-16 20:55:37"}
+
+2023-02-21 12:02:03 Produced message on topic dlq with value of {"user_id": 75786, "user_name": "Shannon Walton", "user_address": "472 Krystal Branch | Kellybury | US", "platform": "Tablet", "signup_at": "2023-02-06 19:28:17"}
+
+2023-02-21 12:02:07 Produced message on topic dlq with value of {"user_id": 33256, "user_name": "Jennifer Cobb", "user_address": "951 Wade Mission | Whiteberg | LY", "platform": "Tablet", "signup_at": "2023-02-15 21:56:27"}
+
+2023-02-21 12:02:11 Produced message on topic dlq with value of {"user_id": 32607, "user_name": "Jose Sutton", "user_address": "355 Marsh Parks Apt. 499 | Michaelhaven | LU", "platform": "Mobile", "signup_at": "2023-02-05 11:54:33"}
+
+2023-02-21 12:02:15 Produced message on topic dlq with value of {"user_id": 79299, "user_name": "Nicole Jones PhD", "user_address": "5530 John Springs | New Jasonberg | DO", "platform": "Mobile", "signup_at": "2023-02-17 00:20:05"}
+
+2023-02-21 12:02:19 Produced message on topic dlq with value of {"user_id": 51235, "user_name": "Mrs. Teresa Bowman PhD", "user_address": "69293 Christopher Falls Apt. 967 | Alecberg | SA", "platform": "Mobile", "signup_at": "2023-02-16 14:36:46"}
+
+2023-02-21 12:02:23 Produced message on topic dlq with value of {"user_id": 35183, "user_name": "Tiffany Garza", "user_address": "21125 Ashley Estates | Paulberg | BE", "platform": "Mobile", "signup_at": "2023-02-12 20:01:33"}
+
+2023-02-21 12:02:28 Produced message on topic dlq with value of {"user_id": 49360, "user_name": "Brandon Flores", "user_address": "5216 Brenda Islands Apt. 687 | Port Charles | BB", "platform": "Tablet", "signup_at": "2023-02-20 11:55:32"}
+
+2023-02-21 12:02:32 Produced message on topic dlq with value of {"user_id": 44576, "user_name": "Tiffany Bolton", "user_address": "491 Johnson Freeway | New Jeffreyfort | KZ", "platform": "Mobile", "signup_at": "2023-02-13 04:19:48"}
+
